@@ -1,0 +1,4 @@
+inherit ggz
+
+CYGCONF_ARGS="--disable-silc"
+GGZMODS="games/*/module.dsc"
